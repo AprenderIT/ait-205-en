@@ -22,4 +22,4 @@ Azure SQL is built on the familiar SQL Server engine, so you can easily migrate 
 
 ## Download the content and excercises
 
-Download the content here.
+[Download the content here](AIT-205-EN.pdf).
