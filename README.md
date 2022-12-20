@@ -1,5 +1,5 @@
 # SQL Server Modernization on Azure
-Microsoft training corresponding to the AIT 205 course in English.
+Microsoft training corresponding to the AIT 205 course in English. Last update: 2022-12-20 08.58 PM UTC.
 
 ## Introduction
 
